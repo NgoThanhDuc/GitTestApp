@@ -1,1 +1,2 @@
 # GitTestApp
+modified the readme
